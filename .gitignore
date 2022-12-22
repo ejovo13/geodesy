@@ -1,0 +1,17 @@
+# test
+*.mod
+*.o
+model
+model_ejovo
+reduce
+validate
+.vscode
+# *.txt
+!**CMakeLists.txt
+*.csv
+*.png
+build
+release
+debug
+*.html
+ETOPO1_ultra.bin
